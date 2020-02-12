@@ -1,0 +1,11 @@
+C:\Users\kamogelo.ramokgadi\Documents\Visual Studio 2015\Projects\ASP\PracticeLang\PracticeLang\bin\Debug\PracticeLang.exe.config
+C:\Users\kamogelo.ramokgadi\Documents\Visual Studio 2015\Projects\ASP\PracticeLang\PracticeLang\bin\Debug\PracticeLang.exe
+C:\Users\kamogelo.ramokgadi\Documents\Visual Studio 2015\Projects\ASP\PracticeLang\PracticeLang\bin\Debug\PracticeLang.pdb
+C:\Users\kamogelo.ramokgadi\Documents\Visual Studio 2015\Projects\ASP\PracticeLang\PracticeLang\obj\Debug\PracticeLang.csprojResolveAssemblyReference.cache
+C:\Users\kamogelo.ramokgadi\Documents\Visual Studio 2015\Projects\ASP\PracticeLang\PracticeLang\obj\Debug\PracticeLang.exe
+C:\Users\kamogelo.ramokgadi\Documents\Visual Studio 2015\Projects\ASP\PracticeLang\PracticeLang\obj\Debug\PracticeLang.pdb
+E:\Projects\ASP\PracticeLang\PracticeLang\bin\Debug\PracticeLang.exe.config
+E:\Projects\ASP\PracticeLang\PracticeLang\bin\Debug\PracticeLang.exe
+E:\Projects\ASP\PracticeLang\PracticeLang\bin\Debug\PracticeLang.pdb
+E:\Projects\ASP\PracticeLang\PracticeLang\obj\Debug\PracticeLang.exe
+E:\Projects\ASP\PracticeLang\PracticeLang\obj\Debug\PracticeLang.pdb
